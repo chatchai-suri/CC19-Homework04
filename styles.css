@@ -5,7 +5,9 @@
 }
 
 body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Taviraj", serif;
+  font-weight: 100;
+  font-style: normal;
 }
 
 .main-wrapper {
@@ -64,6 +66,9 @@ label {
 }
 
 input {
+  font-family: "Taviraj", serif;
+  font-weight: 100;
+  font-style: normal;
   border: white;
   font-size: 16px;
 }
